@@ -1,6 +1,7 @@
 package Entidade;
 
 public class Parametros {
+	// objeto para colocar os parametros
 	private Integer primerioParametro;
 	private Integer segundoParametro;
 
